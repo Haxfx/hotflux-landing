@@ -3,7 +3,7 @@ import Header from '../components/Header';
 
 export default function Home() {
   return (
-    <div className="bg-gray-800 font-Poppins h-screen w-screen text-white leading-loose">
+    <div className="bg-gray-800 font-Poppins text-white leading-loose">
       <div className="container mx-auto px-2">
         <Header />
 
